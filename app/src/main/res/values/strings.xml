@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="t1">Number 1</string>
+    <string name="t2">Number 2</string>
+    <string name="button">OK</string>
+    <string name="button1">+</string>
+    <string name="button2">-</string>
+    <string name="button3">*</string>
+    <string name="button4">/</string>
+    <string name="message"></string>
+    <string name="javatpoint_custom_toast">JavaTpoint custom Toast</string>
+    <string name="to">To</string>
+    <string name="hint">hint</string>
+    <string name="answer">answer</string>
+    <string name="Stringmsg">ENTER TWO NUMBERS</string>
+
+</resources>
